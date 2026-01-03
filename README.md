@@ -8,7 +8,7 @@ The goal is to transform raw flight booking data into clear, actionable insights
 ---
 
 ## 📊 Dashboard Preview
-![Airline Booking Power BI Dashboard](./dashboard.png)
+![Airline Booking Power BI Dashboard] (./intro.png) (./dashboard.png)
 
 ---
 
